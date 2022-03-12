@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 56C7-BE31
+
+ Directory of C:\Users\homelane\Desktop\Test GIT
+
+03/11/2022  11:31 AM    <DIR>          .
+03/11/2022  11:31 AM    <DIR>          ..
+03/11/2022  11:31 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  437,190,361,088 bytes free
